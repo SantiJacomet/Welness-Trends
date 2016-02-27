@@ -1,2 +1,2 @@
 # Welness Trends
-This is a work to study main trends in wellness (fitness and manual therapy)
+This is a work to study main trends in Wellness (Fitness and Manual Therapy)
